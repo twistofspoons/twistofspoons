@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Govind 
 - 👀 I’m interested in coding,games and football
 - 🌱 I’m currently a fresher,studying electronics and communication engineering in MEC
-- 💞️ I’m looking to collaborate on ...
 - 📫 u can send ur queries through my gmail -goviz0072@gmail.com
 
 <!--- 
